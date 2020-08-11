@@ -1,3 +1,15 @@
 {
-  "test": "test"
+  "img": [
+    ""  
+  ],
+  "category": "일상용품 > 위생용품 > 영유아위생용품 > 영유아용기저귀",
+  "size": "39.4 x 19.4 x 11.6",
+  "con_weight": "1413(g)",
+  "total_weight": "1551(g)",
+  "pub_date": null,
+  "site": "",
+  "avg_price" : 27000,
+  "com_grade" : 1,
+  "fail_grade" : 1,
+  "star_point": 4.5
 }
