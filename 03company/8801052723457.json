@@ -9,16 +9,14 @@
   "update_date": "2010-07-20 00:00:00",
   "cs": "02-2220-9500",
   "recall_cnt": 0,
-  "news": [
-    {
+  "news1": {
       "title": "",
       "text": "",
       "img": ""
-    },
-    {
+  },
+  "news2": {
       "title": "",
       "text": "",
       "img": ""
-    }
-  ]
+  }
 }
