@@ -1,0 +1,112 @@
+{
+  "max": "",
+  "avg": "",
+  "min": "",
+  "list": [
+    {
+      "id": "1",
+      "seller": "마트코리아",
+      "price": "4,410",
+      "delivery": "2,500",
+      "pd": "6,910"
+    },
+    {
+      "id": "2",
+      "seller": "11번가",
+      "price": "4,420",
+      "delivery": "2,500",
+      "pd": "6,920"
+    },
+    {
+      "id": "3",
+      "seller": "옥션",
+      "price": "4,460",
+      "delivery": "2,500",
+      "pd": ""
+    },
+    {
+      "id": "4",
+      "seller": "G마켓",
+      "price": "4,580원",
+      "delivery": "",
+      "pd": ""
+    },
+    {
+      "id": "5",
+      "seller": "옥션",
+      "price": "4,600원",
+      "delivery": "",
+      "pd": ""
+    },
+    {
+      "id": "6",
+      "seller": "퍼니맘",
+      "price": "4,790원",
+      "delivery": "",
+      "pd": ""
+    },
+    {
+      "id": "7",
+      "seller": "인터랜드",
+      "price": "4,800원",
+      "delivery": "",
+      "pd": ""
+    },
+    {
+      "id": "8",
+      "seller": "온마트코퍼레이션",
+      "price": "4,850원",
+      "delivery": "",
+      "pd": ""
+    },
+    {
+      "id": "9",
+      "seller": "SSG.COM",
+      "price": "4,851원",
+      "delivery": "",
+      "pd": ""
+    },
+    {
+      "id": "10",
+      "seller": "G마켓",
+      "price": "4,900원",
+      "delivery": "",
+      "pd": ""
+    },
+    {
+      "id": "11",
+      "seller": "옥션",
+      "price": "4,900원",
+      "delivery": "",
+      "pd": ""
+    },
+    {
+      "id": "12",
+      "seller": "신세계몰",
+      "price": "4,900원",
+      "delivery": "",
+      "pd": ""
+    },
+    {
+      "id": "13",
+      "seller": "11번가",
+      "price": "4,920원",
+      "delivery": "",
+      "pd": ""
+    },
+    {
+      "id": "14",
+      "seller": "위메프",
+      "price": "4,950원",
+      "delivery": "",
+      "pd": ""
+    },
+    {
+      "id": "15",
+      "seller": "TMON",
+      "price": "5,270원",
+      "delivery": "",
+      "pd": ""
+    }
+  ]
+}
